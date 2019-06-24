@@ -23,13 +23,8 @@
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ConsoleApplication1.cpp">
+    <ClCompile Include="TemplateClass.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\bianfeng.txt">
-      <Filter>源文件</Filter>
-    </Text>
   </ItemGroup>
 </Project>

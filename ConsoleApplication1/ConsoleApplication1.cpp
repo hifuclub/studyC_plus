@@ -15,6 +15,7 @@ struct Date
 		this->mouth = mouth;
 		this->day = day;
 
+
 	}
 
 	void print() {
