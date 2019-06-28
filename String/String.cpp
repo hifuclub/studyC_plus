@@ -10,7 +10,7 @@ typedef string String;
 
 void myString() {
 	string s1;//默认无参构造函数
-	String s2("hello");//普通构造函数
+	string s2("hello");//普通构造函数
 	s1 = "Anatoliy";//赋值运算符
 	string s3(s1);//拷贝构造函数 string s3 = s1;
 
